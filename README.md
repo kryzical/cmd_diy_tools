@@ -1,5 +1,1 @@
-man fopen
-man fclose
-man fgetc
-man fread
-man isspace
+recreating random command line tools for my shell
